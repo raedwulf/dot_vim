@@ -11,3 +11,5 @@ let g:jellybeans_background_color_256 = 'none'
 let g:jellybeans_use_lowcolor_black = 1
 hi Normal ctermbg=NONE
 hi NonText ctermbg=NONE
+hi IndentGuidesOdd  guifg=grey85 ctermfg=black
+hi IndentGuidesEven guifg=grey85 ctermfg=black
