@@ -73,14 +73,14 @@ set switchbuf=useopen  " Switch to an existing buffer if one exists
 " ---------------
 " Text Format
 " ---------------
-set tabstop=2
+set tabstop=8
 set backspace=indent,eol,start " Delete everything with backspace
-set shiftwidth=2 " Tabs under smart indent
+set shiftwidth=8 " Tabs under smart indent
 set shiftround
 set cindent
 set autoindent
 set smarttab
-set expandtab
+"set expandtab
 
 " ---------------
 " Searching
